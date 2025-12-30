@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Spread Wings.",
+  "base_artist": "美郷あき",
+  "createdAt": "2025-12-30T15:13:13.204416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spread Wings.",
+      "artist": "aki misato",
+      "has_synced": true,
+      "path": "select/01_Spread_Wings._aki_misato.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spread_Wings_-美郷あき",
+      "artist": "????",
+      "has_synced": true,
+      "path": "select/02_Spread_Wings_-美郷あき_unknown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spread Wings.",
+      "artist": "美郷あき",
+      "has_synced": true,
+      "path": "select/03_Spread_Wings._美郷あき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spread Wings. (TVアニメ「俺たちに翼はない」オープニングテーマ)",
+      "artist": "美郷あき",
+      "has_synced": true,
+      "path": "select/04_Spread_Wings._(TVアニメ「俺たちに翼はない」オープニングテーマ)_美郷あき.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spread Wings. (Off Vocal)",
+      "artist": "Aki Misato",
+      "has_synced": true,
+      "path": "select/05_Spread_Wings._(Off_Vocal)_Aki_Misato.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spread Wings.",
+      "artist": "美郷あき",
+      "has_synced": false,
+      "path": "select/pl_01_Spread_Wings._美郷あき.txt"
+    }
+  ]
+}
